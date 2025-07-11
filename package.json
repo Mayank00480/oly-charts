@@ -1,6 +1,6 @@
 {
   "name": "oly-charts",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "oly-charts provides a collection of reusable and responsive chart components—perfect for dashboards, reports, and data visualizations.",
   "main": "index.js",
   "scripts": {
